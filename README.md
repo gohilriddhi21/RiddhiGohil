@@ -8,7 +8,7 @@ Here's a glimpse into my world of software engineering and exploration of AI/ML.
 **About Me**
 ---
 * Passionate software engineer with 2+ years of experience. 
-* Keen interest in **AI/ML** and Distributed Systems.
+* Keen interest in **AI/ML** and **Distributed Systems**.
 * Strong foundation in **Data Engineering** and **Data Science**.
 * Continuously learning and exploring new technologies.
 

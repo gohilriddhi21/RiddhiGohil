@@ -1,21 +1,24 @@
 # Hello, I'm Riddhi! 👋
 
-**Welcome to my Git repository!**
+**Welcome to my Git repository!** 
 
 Here's a glimpse into my world of software engineering and exploration of AI/ML.  
 
-**About Me**
 
-[] Passionate software engineer
-[] 2+ years of exp
-[] Keen interest in AI/ML
-[] Strong foundation in Data Engineering and Data Science and 
-[] Enjoy exploring new technologies.
+**About Me**
+---
+* Passionate software engineer with a strong foundation in **Data Engineering** and **Data Science**.
+* Keen interest in **AI/ML** with 2+ years of experience.
+* Continuously learning and exploring new technologies.
+
 
 **Contact Info**
-
+---
 📍 Seattle, Washington 98101  
 ✉️ [gohilriddhi21@gmail.com](mailto:gohilriddhi21@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/riddhigohil)  
 📞 +1 (206) 330-7099 
 
+
+
+**Feel free to connect with me anytime**

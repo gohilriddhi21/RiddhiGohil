@@ -17,8 +17,7 @@ Here's a glimpse into my world of software engineering and exploration of AI/ML.
 ---
 📍 Seattle, Washington 98101  
 ✉️ [gohilriddhi21@gmail.com](mailto:gohilriddhi21@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/riddhi-gohil-7598641b6)  
-📞 +1 (206) 330-7099 
+🔗 [LinkedIn](https://www.linkedin.com/in/riddhi-gohil-7598641b6)
 
 
 
